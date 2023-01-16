@@ -21,4 +21,3 @@ Steps to solve:
   7. If it is same then return true.
   
   8. Otherwise it is false.
-
